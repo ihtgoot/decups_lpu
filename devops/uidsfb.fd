@@ -1,1 +1,8 @@
-sjdbobdsoibvo
+total 24
+drwxrwxr-x 3 ihtgoot ihtgoot 4096 Nov 21 13:39 .
+drwxrwxr-x 6 ihtgoot ihtgoot 4096 Nov 20 19:24 ..
+drwxrwxr-x 3 ihtgoot ihtgoot 4096 Nov 12 11:01 devops_lpu_class
+-rw-rw-r-- 1 ihtgoot ihtgoot   33 Nov  7 13:44 test_0.txt
+-rw-rw-r-- 1 ihtgoot ihtgoot   38 Nov  7 13:46 test_1.txt
+-rw-rw-r-- 1 ihtgoot ihtgoot   44 Nov  7 13:46 test_2.txt
+-rw-rw-r-- 1 ihtgoot ihtgoot    0 Nov 21 13:40 uidsfb.fd
